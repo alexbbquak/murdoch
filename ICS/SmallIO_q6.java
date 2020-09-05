@@ -20,7 +20,7 @@ public class SmallIO_q6{
 		while (true){
 			//an infinite loop, use Ctrl-C (from command prompt) to quit
 
-			System.out.println("Enter a line:");
+			System.out.println("Enter a line of numbers:");
 
 			a = keyboard.nextLine();
 
